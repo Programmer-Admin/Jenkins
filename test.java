@@ -4,6 +4,6 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.print("Test Print");
+        System.out.print("Test Print From Jenkins");
     }
 }
